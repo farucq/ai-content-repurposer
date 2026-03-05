@@ -194,7 +194,7 @@ GROQ_API_KEY=gsk_your_api_key_here
 - **Fallback Options**: Provides search links when direct video extraction fails
 - **Add your API key**:
 ```
-API_KEY=youtube_your_api_key_here
+API_KEY=your_youtube_api_key_here
 ```
 
 ## Contributing
