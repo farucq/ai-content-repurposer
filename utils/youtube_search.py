@@ -1,7 +1,7 @@
 
 import requests
 
-API_KEY = "AIzaSyCTkO8einUDkGc94OWtWbhEesERCZfTiQY"
+API_KEY = "AIzaS****************************"
 
 def search_youtube_video(topic):
     try:
