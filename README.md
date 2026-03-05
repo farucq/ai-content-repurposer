@@ -11,7 +11,7 @@ A powerful Streamlit application that transforms your blog content into multiple
 - **Quality Review**: Built-in content quality assessment
 - **Modern UI**: Clean, responsive Streamlit interface
 
-## Architech
+## Architecture diagram
 
 ```bash
                         ┌───────────────────────┐
