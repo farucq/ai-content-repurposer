@@ -192,6 +192,10 @@ GROQ_API_KEY=gsk_your_api_key_here
 - **Smart Search**: Uses multiple search strategies with keyword extraction
 - **Relevance Scoring**: Filters and ranks videos by educational value
 - **Fallback Options**: Provides search links when direct video extraction fails
+- 3. Add your API key:
+```
+API_KEY=youtube_your_api_key_here
+```
 
 ## Contributing
 
@@ -212,6 +216,3 @@ For issues and questions:
 - Check the documentation
 - Review the code comments
 
----
-
-**Built with ❤️ using AI and modern web technologies**
