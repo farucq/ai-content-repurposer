@@ -8,3 +8,4 @@ newspaper3k
 sentence-transformers
 chromadb
 pydantic
+reportlab
