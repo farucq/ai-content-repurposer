@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+beautifulsoup4
+newspaper3k
+sentence-transformers
+chromadb
+pydantic
